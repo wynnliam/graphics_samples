@@ -1,4 +1,4 @@
-# Liam Wynn, 1-12-2025, Graphics Samples: Reconstruction
+# Liam Wynn, 1-21-2025, Graphics Samples: Reconstruction
 
 #
 # Defines a simple program that performs discrete-continuous convolution.
